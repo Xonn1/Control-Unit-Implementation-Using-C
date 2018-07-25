@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/JetBrains Saves/CLion/ControlUnit/functions.cpp
+header.h
+D:/JetBrains Saves/CLion/ControlUnit/header.h
+
+D:/JetBrains Saves/CLion/ControlUnit/header.h
+iostream
+-
+sstream
+-
+string
+-
+array
+-
+bitset
+-
+sstream
+-
+stdlib.h
+-
+ctype.h
+-
+
+D:/JetBrains Saves/CLion/ControlUnit/main.cpp
+iostream
+-
+header.h
+D:/JetBrains Saves/CLion/ControlUnit/header.h
+
